@@ -1,0 +1,46 @@
+
+p {
+  text-align: left;
+  font-family: ngt-regular;
+
+  font-size: 16px;
+  max-width: 860px;
+  line-height: 22px;
+  letter-spacing: 0.03em;
+}
+
+
+.bb-header{
+  color: lightgreen;
+  font-size: 120%;
+  font-weight: bold;
+  height: 100%;
+  padding: 2.5%;
+  text-align: center;
+  width: 20%;
+
+}
+
+/* Posts section  */
+.bb-section{
+  display: inline-flex;
+}
+
+
+.bb-section1{
+  background-color: #008000
+}
+
+
+
+.bb-messages {
+    overflow-wrap: break-word;
+    padding: 5px 2.5%;
+    width: 70%;
+}
+
+
+
+.bb-messages1 {
+    background-color: lightgreen;
+}
